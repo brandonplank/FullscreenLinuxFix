@@ -1,6 +1,6 @@
 # FullscreenLinuxFix
 
-## Requirement:
+## Requirements:
 * Fabric
 * Fabric API
 
