@@ -1,4 +1,0 @@
-v1	named	intermediary
-FIELD	org/crypticplank/fullscreenfix/mixin/MonitorTrackerMixin	Lit/unimi/dsi/fastutil/longs/Long2ObjectMap;	pointerToMonitorMap	field_1993
-FIELD	org/crypticplank/fullscreenfix/mixin/MonitorTrackerMixin	Lorg/slf4j/Logger;	LOGGER	field_37266
-METHOD	org/crypticplank/fullscreenfix/mixin/MonitorTrackerMixin	(Lnet/minecraft/client/util/Window;)Lnet/minecraft/client/util/Monitor;	getMonitor	method_1681
