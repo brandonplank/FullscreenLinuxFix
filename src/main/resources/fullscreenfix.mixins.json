@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.crypticplank.fullscreenfix.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "MonitorTrackerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
